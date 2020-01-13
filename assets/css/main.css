@@ -1335,3 +1335,11 @@ textarea {
 #copyright p a:hover {
   color: #3AB148;
 }
+
+.banner-img {
+  height: 260px; background: url(../img/hero-v2.png); background-size: 72%; background-repeat: no-repeat; background-position: top center;
+}
+
+.service-img-bg {
+  background-image:url(../img/feature/img-2.jpg); background-size: inherit; height: 100%; min-height: 140px;
+}
