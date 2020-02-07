@@ -73,36 +73,6 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ginkgoch/node-map</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/ginkgoch/map-quick-started-demos/tree/develop/core</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/ginkgoch/node-shapefile-viewer</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/ginkgoch/map-quick-started-demos/tree/develop/services</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/ginkgoch/node-map-server</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
  <loc>https://youtu.be/EvgRDlh0V6E</loc>
  <priority>0.5</priority>
  <lastmod>2020-2-7</lastmod>
@@ -146,18 +116,6 @@
 </url>
 <url>
  <loc>https://blog.ginkgoch.com</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/ginkgoch/map-quick-started-demos/blob/develop/core/README.md#prerequisite</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-7</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/ginkgoch/map-quick-started-demos/blob/develop/core/README.md#quick-started</loc>
  <priority>0.5</priority>
  <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
