@@ -5,64 +5,161 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
+
 <url>
- <loc>https://ginkgoch.com</loc>
- <priority>1</priority>
- <lastmod>2020-01-17</lastmod>
+ <loc>https://ginkgoch.com/index.html#hero-area</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://ginkgoch.com/index.html</loc>
- <priority>0.8</priority>
- <lastmod>2020-01-17</lastmod>
+ <loc>https://ginkgoch.com/index.html#features</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://ginkgoch.com/index.html#services</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://ginkgoch.com/index.html#contact</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://ginkgoch.com/faq.html</loc>
- <priority>0.8</priority>
- <lastmod>2020-01-22</lastmod>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://blog.ginkgoch.com</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://ginkgoch.com/index.html#hero-area</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://ginkgoch.com/index.html#features</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://ginkgoch.com/index.html#services</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://ginkgoch.com/index.html#contact</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>faq.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://github.com/ginkgoch/node-map</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://github.com/ginkgoch/map-quick-started-demos/tree/develop/core</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://github.com/ginkgoch/node-shapefile-viewer</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://github.com/ginkgoch/map-quick-started-demos/tree/develop/services</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://github.com/ginkgoch/node-map-server</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ginkgoch</loc>
+ <loc>https://youtu.be/EvgRDlh0V6E</loc>
  <priority>0.5</priority>
- <lastmod>2020-01-17</lastmod>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com/2020/02/07/20200207-shapefile-cli-v1-3-released/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com/2020/02/01/20200201-nCoV-map/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com/2020/01/06/20200106-build-map-xyz-server/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com/2019/12/30/20191230-quick-started-demo/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com/2019/11/01/20191101-lodash-in-golang/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com/2019/10/24/20191024-map-server-builder/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://blog.ginkgoch.com</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://github.com/ginkgoch/map-quick-started-demos/blob/develop/core/README.md#prerequisite</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://github.com/ginkgoch/map-quick-started-demos/blob/develop/core/README.md#quick-started</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-2-7</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 </urlset>
