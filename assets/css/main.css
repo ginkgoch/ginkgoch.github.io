@@ -31,10 +31,12 @@ a {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  color: #3AB148;
 }
 
 a:hover {
   text-decoration: none;
+  color: #28a745;
 }
 
 a a:focus {
@@ -1399,14 +1401,37 @@ section code {
   color: white !important;
 }
 
-#posts li a {
+#posts li a, #platform li a {
   color: #3AB148
 }
 
-#posts li a:hover {
+#posts li a:hover, #platform li a:hover {
   color: #28a745
 }
 
 #posts .features-content small {
   margin-left: 10px;
+}
+
+#platform i {
+  color: #3AB148;
+  vertical-align: middle;
+}
+
+#platform ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+#platform .downloadable {
+  margin-top: 10px;
+}
+
+#hero-area .tips {
+  color: gray;
+  line-height: 14px;
+}
+
+.header-button {
+  margin-bottom: 20px;
 }
