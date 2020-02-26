@@ -1401,6 +1401,14 @@ section code {
   color: white !important;
 }
 
+#posts li a, #platform li a {
+  color: #3AB148
+}
+
+#posts li a:hover, #platform li a:hover {
+  color: #28a745
+}
+
 #posts .features-content small {
   margin-left: 10px;
 }
