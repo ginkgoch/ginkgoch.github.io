@@ -73,7 +73,6 @@ ul li, ol li {
   text-align: center;
   letter-spacing: 1px;
   line-height: 1;
-  margin-bottom: 48px;
   padding: 0 10px;
   position: relative;
 }
@@ -1401,21 +1400,16 @@ section code {
   color: white !important;
 }
 
-#posts li a {
+#posts li a, a.gray-link {
   color: #585b60;
 }
 
-#posts li a:hover {
+#posts li a:hover, a.gray-link:hover {
   color: #3AB148;
 }
 
 #posts .features-content small {
   margin-left: 10px;
-}
-
-#platform i {
-  color: #3AB148;
-  vertical-align: middle;
 }
 
 #platform ul li {
@@ -1434,4 +1428,8 @@ section code {
 
 .header-button {
   margin-bottom: 20px;
+}
+
+.section-header {
+  margin-bottom: 48px;
 }
