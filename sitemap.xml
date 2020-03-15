@@ -1,323 +1,322 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://ginkgoch.com/</loc>
-    <lastmod>2020-03-01T14:13:38+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/index.html</loc>
-    <lastmod>2020-03-01T14:13:38+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/</loc>
-    <lastmod>2020-03-01T14:20:15+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2020/02/25/20200225-ginkgoch-map-v1-12-with-feature-demos/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2020/02/13/20200213-ginkgoch-map-v1-9-released/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2020/02/07/20200207-shapefile-cli-v1-4-released/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2020/02/01/20200201-nCoV-map/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2020/01/06/20200106-build-map-xyz-server/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2019/12/30/20191230-quick-started-demo/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2019/11/01/20191101-lodash-in-golang/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2019/10/24/20191024-map-server-builder/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2019/01/01/20190101-shapefile-viewer/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2018/08/11/20180811-shapefile-cli/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/archives/2020/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/archives/2019/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/archives/2018/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/build-map/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/command-line-tool/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/docker/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/electron-map/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/gis-software/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/golang/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/library/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/lodash/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/map/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/map-sdk/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/map-server/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/map-tutorial/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/node-js/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/open-source/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/release/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/shapefile/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/tags/tutorials/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2018/08/08/20180808-shapefile-reader-for-node/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2018/07/28/20180728-stream-reader-for-node/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/blog/2018/07/23/20180723-buffer-reader-for-node/</loc>
-    <lastmod>2020-02-26T15:43:06+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/GettingStarted/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/GettingStarted/Setup</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/GettingStarted/CommandLine</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/GettingStarted/Desktop</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/GettingStarted/Service</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/GettingStarted/Web</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Geometries/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Geometries/Geometry</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Geometries/Feature</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Geometries/Shared</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Styles/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Styles/Style</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Styles/Advanced</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Layers/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Layers/Shared</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Layers/FeatureSource</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Layers/Layer</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Basis/Maps/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Meta/</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Meta/Release</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Meta/Showcase</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Meta/FAQ</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Meta/Contact</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/?id=welcome-to-ginkgoch-map-library-guide</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://ginkgoch.com/node-map-guide/#/Meta/Contact</loc>
-    <priority>0.64</priority>
-    <lastmod>2020-03-01T14:43:05+00:00</lastmod>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ginkgoch.com/</loc>
+  <lastmod>2020-03-15T10:52:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/index.html</loc>
+  <lastmod>2020-03-15T10:52:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/miscellaneous/showcase/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2020/03/02/20200302-ginkgoch-map-dev-guide-v1/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2020/02/25/20200225-ginkgoch-map-v1-12-with-feature-demos/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2020/02/13/20200213-ginkgoch-map-v1-9-released/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2020/02/07/20200207-shapefile-cli-v1-4-released/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2020/02/01/20200201-nCoV-map/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2020/01/06/20200106-build-map-xyz-server/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/getting-started/setup/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/getting-started/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/getting-started/commandLine/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/getting-started/desktop/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/getting-started/service/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/getting-started/web/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/geometries/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/geometries/geometry/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/geometries/feature/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/geometries/shared/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/styles/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/styles/style/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/styles/advanced/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/layers/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/layers/shared/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/layers/featureSource/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/layers/layer/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/basis/maps/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/miscellaneous/index/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/miscellaneous/release/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/miscellaneous/faq/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/guide/miscellaneous/contact/</loc>
+  <lastmod>2020-03-15T10:56:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2019/12/30/20191230-quick-started-demo/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2019/11/01/20191101-lodash-in-golang/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2019/10/24/20191024-map-server-builder/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2019/01/01/20190101-shapefile-viewer/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/archives/2020/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/archives/2019/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/archives/2018/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/build-map/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/command-line-tool/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/docker/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/electron-map/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/gis-software/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/golang/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/library/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/lodash/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/map/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/map-sdk/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/map-server/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/map-tutorial/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/node-js/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/open-source/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/release/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/shapefile/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/tags/tutorials/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2018/08/11/20180811-shapefile-cli/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2018/08/08/20180808-shapefile-reader-for-node/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2018/07/28/20180728-stream-reader-for-node/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ginkgoch.com/blog/2018/07/23/20180723-buffer-reader-for-node/</loc>
+  <lastmod>2020-03-15T11:00:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
